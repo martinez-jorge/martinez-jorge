@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Jorge. I'm an institutional researcher at the University of Houston. I'm an avid R programmer and use it for all my work.
+
+So far git hub is a place to deploy [my website](https://jxmartinez.com). I can also be found on twitter: [@JXM85](https://twitter.com/JXM85) 
+
 <!--
 **martinez-jorge/martinez-jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
