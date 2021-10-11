@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jorge. I'm an institutional researcher at the University of Houston. I'm an avid R programmer and use it for all my work.
+My name is Jorge. I'm the Director of Research and Reporting of Enrollment Services at the University of Houston. I'm an avid R programmer and use it for all my work.
 
 So far git hub is a place to deploy [my website](https://jxmartinez.com). I can also be found on twitter: [@JXM85](https://twitter.com/JXM85) 
 
