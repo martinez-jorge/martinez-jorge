@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Jorge. I'm the Director of Research and Reporting of Enrollment Services at the University of Houston. I'm an avid R programmer and use it for all my work.
+My name is Jorge. I'm the Director of Data Strategy at [BakerRipley](https://bakerripley.org). I'm an avid R programmer and use it for all my work.
 
-So far git hub is a place to deploy [my website](https://jxmartinez.com). I can also be found on twitter: [@JXM85](https://twitter.com/JXM85) 
+So far git hub is a place to deploy [my website](https://jxmartinez.com). I can also be found on bluesky: [@jxmartinez.bsky.social](https://bsky.app/profile/jxmartinez.bsky.social) 
 
 <!--
 **martinez-jorge/martinez-jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
