@@ -2,7 +2,7 @@
 
 My name is Jorge. I'm the Director of Data Strategy at [BakerRipley](https://bakerripley.org). I'm an avid R programmer and use it for all my work.
 
-So far git hub is a place to deploy [my website](https://jxmartinez.com). I can also be found on bluesky: [@jxmartinez.bsky.social](https://bsky.app/profile/jxmartinez.bsky.social) 
+See more on [my website](https://jxmartinez.com). I can also be found on bluesky: [@jxmartinez.bsky.social](https://bsky.app/profile/jxmartinez.bsky.social) 
 
 <!--
 **martinez-jorge/martinez-jorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
